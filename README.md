@@ -4,7 +4,7 @@ Changes the MacOS wallpaper with images from unsplash.
 
 ## Installation
 ```shell
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 ## Usage
